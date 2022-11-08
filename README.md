@@ -1,4 +1,4 @@
-SEW | CORE | Paging on the Client
+SEW | CORE | Paging on the Server and the Client
 
 ## User Story 1
 *As a consumer I only want 5 entries per page, so that I have a better overview of the available songs.*
