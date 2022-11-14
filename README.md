@@ -5,6 +5,7 @@ SEW | CORE | Paging on the Server and the Client
 
 ### Acceptance Criteria
 - A navigation for paging through the results from the server is available.
+- Not all songs are loaded at once, but only the songs for the current page.
 - The navigation consists of a "first page", a "previous", a "next", and a "last page" button.
 - The number of the current page and the maximum number of pages is displayed.
 - The "first page" button is disabled, if the user is on the first page.
